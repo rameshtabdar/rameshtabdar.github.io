@@ -1,0 +1,21 @@
+{
+	"files": {
+		"fusemachines.less": {
+			"engines": [
+				{
+					"compiler": "less",
+					"output": "fusemachines.css",
+					"options": {
+						"compress": true,
+						"ieCompat": false,
+						"strictMath": false,
+						"strictUnits": false,
+						"javascriptEnabled": false,
+						"sourcemap": true
+					}
+				}
+			],
+			"sources": []
+		}
+	}
+}
